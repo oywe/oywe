@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 どーもoyweです
-まぁ界隈の人はわかるよね
+まぁわかるよね
 
 んじゃ
