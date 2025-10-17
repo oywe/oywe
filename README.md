@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 まぁわかるよね
 
 んじゃ
+
+リア友が頑張ってるらしいわら
+https://github.com/yayoiP/pyappscript
