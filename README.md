@@ -14,11 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-どーもoyweです
-まぁわかるよね
-
-んじゃ
-
-リア友が頑張ってるらしいわら
-https://github.com/yayoiP/pyappscript
+ごめん誰
